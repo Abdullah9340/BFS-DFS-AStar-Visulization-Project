@@ -1,0 +1,6 @@
+/**
+ * AStar
+ */
+public class AStar {
+
+}
